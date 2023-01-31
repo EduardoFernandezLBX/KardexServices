@@ -1,0 +1,6 @@
+port: 8080
+database: 
+  name: kardex
+  username: 4c3dvpiwbcfp4yo9kvy2
+  host: us-west.connect.psdb.cloud
+  password: pscale_pw_OnItBSQRvJs8jO9FIewqzXyVG2ufT4sBDtiins2nlGh
