@@ -2,6 +2,6 @@
 
 Proyecto Backend desarrollado en Golang
 
-main.exe es el ejecutable
+Build go es el main.exe
 
 Ejecutar con el comando "go run main.go"
